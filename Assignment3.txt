@@ -1,0 +1,1 @@
+string and char are two data types that are not stored in int data type.
